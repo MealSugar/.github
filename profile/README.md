@@ -20,4 +20,4 @@
 - **이홍규** : 팀원 | BE
 
 ### ⚒️ Stacks
-<img src="https://skillicons.dev/icons?i=react,styledcomponents,vercel,django,mysql,aws,jenkins" alt=""/>
+<img src="https://skillicons.dev/icons?i=react,styledcomponents,vercel,django,mysql,aws,docker,nginx,githubactions" alt=""/>
